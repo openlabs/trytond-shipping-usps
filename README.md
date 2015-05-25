@@ -1,2 +1,0 @@
-trytond-shipping-usps
-=====================
